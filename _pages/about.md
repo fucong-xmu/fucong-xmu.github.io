@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Yu-han Ma](https://physicsfaculty.bnu.edu.
 
 You can find my CV here:
 
-[Emial](fucong@stu.xmu.edu.cn)
+[Email](fucong@stu.xmu.edu.cn)
