@@ -21,7 +21,7 @@ repository               : "fucong-xmu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Cong Fu(付聪)"
   pronouns         : # example: "she/her"  
   bio              : "College of Physical Science and Technology"
